@@ -1,0 +1,14 @@
+Legenda Colunas Planilha EFETIVOS
+
+A - AIS
+B - Mês
+C - Armas
+D - Recolhimentos Totais
+E - Pontos Debelados
+F - Crack
+G - Mandados Expedidos
+H - Malhas da lei
+I - Autoria CVLI
+J - Autoria IP
+K - CVLI
+L - CVP
